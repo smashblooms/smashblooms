@@ -11,7 +11,7 @@
 
 * **ハッカソン:** [VSCode拡張機能「Goal-And-Timer」](https://github.com/Sho-1189-ta/goal_and_timer2)
 * **チーム開発:** [テトリスゲーム](https://github.com/Recursion-a-team-development/tetris)
-* **個人開発:** [奨学金を含む収支記録Webアプリ「ScholarManage」](https://github.com/smashblooms/ScholarManage)
+* **個人開発:** [奨学金を含む収支記録Webアプリケーション「ScholarManage」](https://github.com/smashblooms/ScholarManage)
 
 プロジェクトについて詳しく知りたい場合は、各リンクをご覧ください。
 
