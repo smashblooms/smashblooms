@@ -1,29 +1,27 @@
 ## こんにちは！ @smashblooms です👋
 
-バックエンドエンジニアを目指している大学3年です。バックエンド領域に興味があります。
-Pythonを使ってWebアプリケーションを作っています。
+バックエンドエンジニアを目指している大学3年生です。特にバックエンド領域に興味を持っています。
+現在はPythonを使ってWebアプリケーション開発に取り組んでいます。
 
-これまでちょっとした個人開発やチーム開発、ハッカソンイベントに参加してきました。
+これまでに個人開発、チーム開発、ハッカソンイベントに参加してきました。
 
-## これまでのプロジェクト 🌱
-ハッカソン: [(https://github.com/Sho-1189-ta/goal_and_timer2)]
-チーム開発: [(https://github.com/Recursion-a-team-development/tetris)]
-個人開発: [(https://github.com/smashblooms/ScholarManage)]
+## これまでの主なプロジェクト 🌱
+
+* **ハッカソン:** [VSCode拡張機能「Goal-And-Timer」](https://github.com/Sho-1189-ta/goal_and_timer2)
+* **チーム開発:** [テトリスゲーム](https://github.com/Recursion-a-team-development/tetris)
+* **個人開発:** [奨学金を含む収支記録Webアプリ「ScholarManage」](https://github.com/smashblooms/ScholarManage)
+
+プロジェクトについて詳しく知りたい場合は、各リンクをご覧ください。
 
 ## 連絡先 📫
 
-* Zenn, X, メルアド
-* [(https://zenn.dev/fme)](Zenn)
-* [https://x.com/smashblooms)](X)
-* [emf0000b@gmail.com](メルアド)
+* GitHub
+* [Zenn](https://zenn.dev/fme)
+* [X (旧Twitter)](https://x.com/smashblooms)
+* [メール](mailto:emf0000b@gmail.com)
 
-お気軽にご連絡ください！
+何かあれば気軽にご連絡ください。
 
 ## ちょっとしたこと 😄
 
-日本生まれの外国人ですが、話せるのは日本語だけです🇯🇵
-
-<!---
-smashblooms/smashblooms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+日本生まれの外国人ですが、日本語しか話せません🇯🇵 
