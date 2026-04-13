@@ -1,4 +1,4 @@
-## これまでの主なプロジェクト 🌱
+## これまでの主なプロジェクト
 
 * **ハッカソン:** [VSCode拡張機能「Goal-And-Timer」](https://github.com/Sho-1189-ta/goal_and_timer2)
 * **チーム開発:** [テトリスゲーム](https://github.com/Recursion-a-team-development/tetris)
